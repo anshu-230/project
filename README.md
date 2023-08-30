@@ -1,4 +1,4 @@
-Codeclauseinternship_Basic Chat application using websicket 
+Codeclauseinternship_Basic Chat application using websocket 
 
 
 In this project, I am building a chat application
